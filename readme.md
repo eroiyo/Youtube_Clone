@@ -1,6 +1,6 @@
-# React Bookstore
+# Youtube Clone
 
-> An Youtube Clone, using HTML only
+> An Clone page, using HTML and CSS only
 
 
 A clone of youtube site, using only html and css with the propouse of practicing and reinforce the knowledge, trying to recreate one of the sites i use most of the days
@@ -12,7 +12,7 @@ A clone of youtube site, using only html and css with the propouse of practicing
 
 ## Live Version
 
-if you want to to see the demo, click [here]https://eroiyo.github.io/Youtube_Clone/
+if you want to to see the demo, click [here](https://eroiyo.github.io/Youtube_Clone/)
 
 ## Getting Started
 
