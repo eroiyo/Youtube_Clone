@@ -10,6 +10,10 @@ A clone of youtube site, using only html and css with the propouse of practicing
 -HTML
 -CSS
 
+## Live Version
+
+if you want to to see the demo, click here https://eroiyo.github.io/Youtube_Clone/
+
 ## Getting Started
 
 
